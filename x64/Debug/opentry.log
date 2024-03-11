@@ -1,0 +1,112 @@
+﻿  GeoMatch.cpp
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(125,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(144,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(145,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(197,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(216,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(231,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(291,54): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(315,52): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(316,52): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(322,19): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(323,19): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(325,45): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(326,45): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(344,66): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(344,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(345,99): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(345,58): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(346,66): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(346,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(390,50): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(398,25): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(399,23): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(400,25): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(401,23): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(449,32): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\opentry\GeoMatch.cpp(450,32): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  opentry.vcxproj -> C:\Users\HPR\OneDrive\data\C_C++\embedded_C99\vision\opentry\x64\Debug\opentry.exe
